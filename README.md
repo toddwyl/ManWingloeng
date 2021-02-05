@@ -1,6 +1,6 @@
 ### Hi, I'm Wen Yongliang :zap:
 <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManWingloeng&layout=compact&hide=Jupyter otebook,Cmake,Makefile&langs_count=20" alt="WenYongliang's Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManWingloeng&layout=compact&hide=Jupyter Notebook,Cmake,Makefile&langs_count=20" alt="WenYongliang's Top Langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=ManWingloeng&show_icons=true" alt="WenYongliang's Github Stats" />
 </p>
 
