@@ -1,4 +1,4 @@
-### Hi there, I'm Wen Yongliang
+### Hi, I'm Wen Yongliang :zap:
 <p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManWingloeng&layout=compact&hide=Jupyter otebook,Cmake,Makefile&langs_count=20" alt="WenYongliang's Top Langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=ManWingloeng&show_icons=true" alt="WenYongliang's Github Stats" />
@@ -8,13 +8,14 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 <details>
-	<summary> :zap: 🥅 2021 Goals </summary>
-<!--START_SECTION:activity-->
- 1.  Contribute more to Open Source projects 
- 2.  Have a Good Job 
- 3. Find a GirlFriend 
- 4.  Learn some Musical Instrument
-<!--END_SECTION:activity-->
+	<summary> 🥅 2021 Goals </summary>
+  
+-  Contribute more to **Open Source projects**
+-  Have a **Good Job**
+-  Find a **GirlFriend**
+-  Learn some **Musical Instrument**
+  
+
 </details>
 
 ### 📕 Latest Blog Posts
